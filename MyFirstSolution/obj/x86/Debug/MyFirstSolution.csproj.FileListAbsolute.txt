@@ -1,0 +1,6 @@
+/Users/kymberli/Projects/MyFirstSolution/MyFirstSolution/bin/Debug/MyFirstSolution.exe
+/Users/kymberli/Projects/MyFirstSolution/MyFirstSolution/bin/Debug/MyFirstSolution.pdb
+/Users/kymberli/Projects/MyFirstSolution/MyFirstSolution/obj/x86/Debug/MyFirstSolution.csprojAssemblyReference.cache
+/Users/kymberli/Projects/MyFirstSolution/MyFirstSolution/obj/x86/Debug/MyFirstSolution.csproj.CoreCompileInputs.cache
+/Users/kymberli/Projects/MyFirstSolution/MyFirstSolution/obj/x86/Debug/MyFirstSolution.exe
+/Users/kymberli/Projects/MyFirstSolution/MyFirstSolution/obj/x86/Debug/MyFirstSolution.pdb
